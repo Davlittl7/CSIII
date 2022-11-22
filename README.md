@@ -1,2 +1,2 @@
 # CSIII
-CSIII Labs 
+CSIII Labs programed for Kent State University
