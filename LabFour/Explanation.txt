@@ -1,0 +1,1 @@
+Roster.cpp is part 1 of this lab, while ObjectRoster is part 2
